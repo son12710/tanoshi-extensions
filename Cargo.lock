@@ -607,25 +607,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e4a24736216ec316047a1fc4252e27dabb04218aa4a3f37c6e7ddbf1f9782b54"
 
 [[package]]
-name = "nhentai"
-version = "0.1.12"
-dependencies = [
- "anyhow",
- "chrono",
- "fancy-regex",
- "lazy_static",
- "log",
- "phf 0.10.1",
- "scraper",
- "serde",
- "serde-aux",
- "serde_json",
- "serde_qs",
- "tanoshi-lib",
- "ureq",
-]
-
-[[package]]
 name = "nodrop"
 version = "0.1.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
