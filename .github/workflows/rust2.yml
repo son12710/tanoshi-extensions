@@ -6,7 +6,7 @@ on:
     paths:
       - common/**
       - extensions/**
-      - ".github/workflows/publish.yml"
+      - ".github/workflows/rust2.yml"
       - "!**/*.md"
 
 jobs:
